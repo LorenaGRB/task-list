@@ -1,3 +1,5 @@
+//TASK LIST PROJECT
+
 //Define UI Vars
 const form = document.querySelector('#task-form');
 const taskInput = document.querySelector('#task');
